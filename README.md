@@ -19,15 +19,25 @@
 ## Δομή Project
 
 ── main.cpp
+
 ── types.h
+
 ── csv_reader.cpp / csv_reader.h
+
 ── cleaning.cpp / cleaning.h
+
 ── stats.cpp / stats.h
+
 ── reporting.cpp / reporting.h
+
 ── plots.cpp / plots.h
+
 ── timing.h
+
 ── results.txt
+
 ── timing_report.txt
+
 ── charts/
 
 ## Αρχεία Εξόδου
