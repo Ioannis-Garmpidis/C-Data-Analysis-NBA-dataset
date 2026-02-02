@@ -1,0 +1,10 @@
+TIMING REPORT
+=============
+
+Load (ms):        202.52
+Clean (ms):       45.5374
+Stats (ms):       19.2196
+Export (ms):      0
+Plots (ms):       0
+
+Total (ms): 267.277
